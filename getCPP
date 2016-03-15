@@ -1,0 +1,6 @@
+#! /bin/bash
+cd /home/rainto96/yqp/afterONE
+cp *.cpp ./allfiles
+cp *.h	./allfiles
+cd ./allfiles
+rm main.cpp mainwindow.h mainwindow.cpp dialog_save.h dialog_save.cpp dialog_edit.h dialog_edit.cpp
